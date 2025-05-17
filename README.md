@@ -8,7 +8,7 @@ Os alunos desenvolvedores que integram o grupo IMAGEM, responsáveis pelo desenv
   
   Casemiro Seneme - casemiro.seneme@fatec.sp.gov.br
   
-  Eduardo William Zarnelli Júnior - dduzarnelli@gmail.com
+  Eduardo William Zarnelli Júnior - duduzarnelli@gmail.com
   
   Izabely do Nascimento Rodrigues de Campos - iza.rodrigues@gmail.com
   
